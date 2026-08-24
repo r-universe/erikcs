@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "balnet"]
+	path = balnet
+	url = https://github.com/cran/balnet
 [submodule "maq"]
 	path = maq
 	url = https://github.com/cran/maq
